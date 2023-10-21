@@ -1,8 +1,6 @@
-# Armazenando dados e persistindo localmente
-# Projeto BootaCamp Santander/2023
+# Armazenando Dados e Persistindo Localmente
 
-Permite adicionar pessoas em uma lista com Nome, Peso e altura e exibe em formato de tiles as informações sobre o IMC (Valor do IMC, Nome, Peso, Altura e Classificação).
+Essa aplicação permite você adicionar pessoas e uma lista com seus Nomes, Peso e altura. Exibindo as informações sobre o IMC, junto com sua classificação. 
 
-Projeto atualizado para armazenar localmente os dados das pessoas utilizando SQLite.
 
-Nova página de configurações com possibilidade de armazenar os dados do usuário, que é carregado por padrão ao adicionar uma pessoa no cálculo de IMC.
+
